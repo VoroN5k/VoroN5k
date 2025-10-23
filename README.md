@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm a Full Stack Web Developer
 
-<!--
-**VoroN5k/VoroN5k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+I'm a **Full Stack Developer** passionate about building fast, reliable, and scalable web applications.  
+Currently studying at **ITT Marconi** in Italy.
 
-Here are some ideas to get you started:
+## ⚙️ Tech Stack
+- **Frontend:** React, Vue  
+- **Backend:** Node.js, Express, Nest.js  
+- **Other:** REST APIs, JavaScript, TypeScript, Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Develop and maintain full stack web apps  
+- Design and implement RESTful APIs  
+- Create responsive and interactive user interfaces  
+- Collaborate on open-source and personal projects  
+
+## 🎯 Goals
+- Deepen my knowledge of modern JavaScript frameworks  
+- Learn cloud deployment (AWS, Docker, CI/CD)  
+- Build high-quality, production-ready applications  
+
+---
+
+⭐️ _“Code is like humor. When you have to explain it, it’s bad.”_  
