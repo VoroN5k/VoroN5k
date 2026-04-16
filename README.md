@@ -4,7 +4,7 @@ I'm a **Full Stack Developer** studying at **ITT Marconi** in Italy.
 I build modern, scalable web applications using both frontend and backend technologies.
 
 #### ⚙️ Tech Stack
-- **Frontend:** React, Vue  
+- **Frontend:** React, Vue, Next.js, Angular, React Native  
 - **Backend:** Node.js, Express, Nest.js  
 - **Languages:** JavaScript, TypeScript
   
