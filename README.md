@@ -34,7 +34,7 @@ I believe in accountability in the open-source world. All my commits are cryptog
 ---
 
 ### Stats & Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoroN5k&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=VoroN5k&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoroN5k&layout=compact&theme=radical)
 
 ---
