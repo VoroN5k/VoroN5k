@@ -62,8 +62,8 @@ All commits are cryptographically signed. If a commit on my account is not verif
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=VoroN5k&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VoroN5k&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoroN5K&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoroN5k&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
